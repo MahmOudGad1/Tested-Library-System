@@ -1,0 +1,4 @@
+﻿  Library_system.cpp
+E:\C++ Course dr.mostafa saad\Library_system\Library_system\Library_system.cpp(190): warning C4715: 'library_system::find_idx_bookname_byName': not all control paths return a value
+E:\C++ Course dr.mostafa saad\Library_system\Library_system\Library_system.cpp(200): warning C4715: 'library_system::find_idx_username_byName': not all control paths return a value
+  Library_system.vcxproj -> E:\C++ Course dr.mostafa saad\Library_system\x64\Debug\Library_system.exe
